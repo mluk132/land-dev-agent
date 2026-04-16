@@ -1,0 +1,13 @@
+# Core dependencies
+requests>=2.31.0
+
+# Optional: For PDF generation
+# reportlab>=4.0.0
+
+# Optional: For AI integration
+# openai>=1.0.0
+# anthropic>=0.7.0
+
+# Optional: For web scraping
+# beautifulsoup4>=4.12.0
+# selenium>=4.15.0

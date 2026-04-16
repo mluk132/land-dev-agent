@@ -1,0 +1,14 @@
+*.pyc
+__pycache__/
+*.json
+*.md
+!README.md
+.env
+venv/
+*.pdf
+*.log
+scan_results.json
+research_results.json
+analysis_results.json
+pipeline_summary.json
+report_*.md
