@@ -1,8 +1,8 @@
 *.pyc
 __pycache__/
 *.json
-*.md
 !README.md
+!QUICKSTART.md
 .env
 venv/
 *.pdf
