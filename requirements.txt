@@ -1,13 +1,14 @@
-# Core dependencies
+# Core dependencies (all free!)
 requests>=2.31.0
 
-# Optional: For PDF generation
+# Optional: For PDF generation (free!)
 # reportlab>=4.0.0
 
-# Optional: For AI integration
-# openai>=1.0.0
-# anthropic>=0.7.0
-
-# Optional: For web scraping
+# Optional: For web scraping (free!)
 # beautifulsoup4>=4.12.0
 # selenium>=4.15.0
+
+# ZERO-COST AI: Use Ollama instead!
+# Install: curl -fsSL https://ollama.com/install.sh | sh
+# Then: ollama pull llama3.2:3b
+# Cost: $0/month forever!
